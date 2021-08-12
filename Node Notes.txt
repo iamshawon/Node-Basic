@@ -1,0 +1,6 @@
+L1: exports and require
+L2: fs(file system)
+L3: Create server
+L4: Server response
+L5: External Module (movies-names)
+L6: nodemon(npm start)
